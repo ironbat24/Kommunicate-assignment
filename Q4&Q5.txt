@@ -1,0 +1,16 @@
+Question 4:
+
+Rather than the best, I'd say the most insightful project I worked on was developing a Neural network model to recognise
+american sign language on static images, this was highly educational for me as I learnt many things about data analysis and 
+the workflow and research involved in Data analysis and data modelling(on my github). Other than that, I also had a fruitful experience
+learning and developing real time applications on flutter and dart lang.
+
+
+Question 5:
+
+I would without much hesitation choose to partner up with my friends Kanishk Kaushal and Ramansh Sharma as they bring very useful
+skills to the table to start a company, Kanishk while not only having experience Full stack and app development, is a very eloquent
+communicator; communication skills like these are very useful for not only pitching our ideas to other people, but also ensures that 
+the development process goes smoothly without a hitch as he's able to bring everyone on the same page. Ramansh on the other hand is 
+an expert in various fields of computer science and is a very knowledgeable person who has been a constant help in all fields of deep-learning,
+Machine learning and data science and very strong in his fundamental skills. Therefore, I always look forward to working with these two.
